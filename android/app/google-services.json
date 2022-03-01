@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "147673832328",
+    "firebase_url": "https://godconnect-d5ee3-default-rtdb.firebaseio.com",
+    "project_id": "godconnect-d5ee3",
+    "storage_bucket": "godconnect-d5ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147673832328:android:082db5e11e0bc11ef9383d",
+        "android_client_info": {
+          "package_name": "com.godconnect.godconnectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147673832328-5doeuqif7c89cqj64nbjunp55kiud6on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUg5eIxMTsCCGECD0yLQja9qwKloq4z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147673832328-5doeuqif7c89cqj64nbjunp55kiud6on.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147673832328-7s8qckqq1o0ugl86ji47eleo5g7os0q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kreativenomads.webrtc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147673832328:android:d0466f97df0ee9d9f9383d",
+        "android_client_info": {
+          "package_name": "com.webrtc_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147673832328-5doeuqif7c89cqj64nbjunp55kiud6on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUg5eIxMTsCCGECD0yLQja9qwKloq4z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147673832328-5doeuqif7c89cqj64nbjunp55kiud6on.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "147673832328-7s8qckqq1o0ugl86ji47eleo5g7os0q4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kreativenomads.webrtc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
